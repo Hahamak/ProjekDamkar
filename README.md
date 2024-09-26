@@ -36,11 +36,11 @@ Password : password
 
 ### ERD
 
+![Cuplikan layar 2024-09-26 163128](https://github.com/user-attachments/assets/3d96f820-8607-46d3-933e-682f0300ca8b)
 
 
-## Contributing
+## UML
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Code of Conduct
 
