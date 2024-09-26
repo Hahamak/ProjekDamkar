@@ -41,15 +41,11 @@ Password : password
 
 ## UML
 
+![Cuplikan layar 2024-09-26 164528](https://github.com/user-attachments/assets/8928ca43-25e9-4fff-add8-f5a3fb410c11)
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Teknologi Yang Digunakan
+Laravel 11     Bootstrap
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Dibuat Oleh
+Muhammad Hamka Maulana Yusuf
